@@ -1,5 +1,5 @@
 <h1 style = font-size: "50px" align="center"> Nishant Kant Ojha</h1>
-<h4 align="center"><img align="center" src="Img/phone.png" height="30" width="30" /> 437.223.2314 |<img align="center" src="Icons/Telegram Emojis/fire-1.gif" height="30" width="30" /> nkojha@myseneca.ca <img align="center" src="Img/linkedin.svg" height="30" width="30" /> nishantkantojha<img align="center" src="Icons/Telegram Emojis/face-with-monocle.gif" height="30" width="30" />Toronto, Canada</h4>
+<h4 align="center"><img align="center" src="Img/phone.png" height="30" width="30" /> 437.223.2314 | <a href="nkojha@myseneca.ca" target="blank" style="color: black"><img align="center" src="Img/email.png" alt="email" height="30" width="30"  /> nkojha@myseneca.ca </a> | <a href="https://www.linkedin.com/in/nishantkantojha/" target="blank" style="color: black"><img align="center" src="Img/linkedin.svg" alt="linkedin" height="30" width="40" />nishatkantojha </a>| <img align="center" src="Img/address.png" height="30" width="30" />Toronto, Canada</h4>
 O.BJECTIVE
 
 PROFILE
